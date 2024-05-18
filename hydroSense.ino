@@ -1,6 +1,6 @@
 #include <LiquidCrystal.h>
 #include <Servo.h>
-
+//Create by Carlos González & Salvador Martínez
 #include <DHT.h>
 Servo servoMotor;
 LiquidCrystal lcd(12, 11, 8, 7, 4, 2);
